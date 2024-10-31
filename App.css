@@ -1,0 +1,14 @@
+.container{
+  width: 300px;
+  height: 100px;
+  margin: auto;
+  margin-top: 5%;
+  align-content: center;
+  text-align: center;
+  justify-content: space-around;
+  background-color: aliceblue;
+}
+
+.counter{
+  margin-right: 10px;
+}
